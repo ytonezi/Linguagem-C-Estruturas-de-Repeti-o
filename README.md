@@ -1,1 +1,1 @@
-# Linguagem-C-Estruturas-de-Repeti-o
+- Testes rápidos de meus estudos em conceitos de Linguagem C: Estruturas de Repetição While & For
